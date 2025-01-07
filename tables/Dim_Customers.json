@@ -1,0 +1,31 @@
+[
+    {
+      "Customer_ID": 101,
+      "Full_Name": "John Smith",
+      "Email": "john.smith@example.com",
+      "Phone_Number": "123-456-7890",
+      "Address": "123 Elm St, Springfield"
+    },
+    {
+      "Customer_ID": 102,
+      "Full_Name": "Jane Doe",
+      "Email": "jane.doe@example.com",
+      "Phone_Number": "234-567-8901",
+      "Address": "456 Oak St, Springfield"
+    },
+    {
+      "Customer_ID": 103,
+      "Full_Name": "Alice Johnson",
+      "Email": "alice.johnson@example.com",
+      "Phone_Number": "345-678-9012",
+      "Address": "789 Pine St, Springfield"
+    },
+    {
+      "Customer_ID": 104,
+      "Full_Name": "Bob Brown",
+      "Email": "bob.brown@example.com",
+      "Phone_Number": "456-789-0123",
+      "Address": "101 Maple St, Springfield"
+    }
+  ]
+  

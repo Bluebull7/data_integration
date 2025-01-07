@@ -1,0 +1,23 @@
+[
+    {
+      "Branch_ID": 301,
+      "Branch_Name": "Main Branch",
+      "Location": "Downtown Springfield"
+    },
+    {
+      "Branch_ID": 302,
+      "Branch_Name": "East Branch",
+      "Location": "East Springfield"
+    },
+    {
+      "Branch_ID": 303,
+      "Branch_Name": "West Branch",
+      "Location": "West Springfield"
+    },
+    {
+      "Branch_ID": 304,
+      "Branch_Name": "North Branch",
+      "Location": "North Springfield"
+    }
+  ]
+  

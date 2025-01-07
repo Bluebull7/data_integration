@@ -1,0 +1,53 @@
+[
+    {
+      "Transaction_ID": 1,
+      "Customer_ID": 101,
+      "Account_ID": 201,
+      "Branch_ID": 301,
+      "Transaction_DateKey": 20230101,
+      "Amount": 500.00,
+      "Transaction_Type": "Deposit",
+      "Is_Duplicate": false
+    },
+    {
+      "Transaction_ID": 2,
+      "Customer_ID": 102,
+      "Account_ID": 202,
+      "Branch_ID": 302,
+      "Transaction_DateKey": 20230102,
+      "Amount": 200.00,
+      "Transaction_Type": "Withdrawal",
+      "Is_Duplicate": false
+    },
+    {
+      "Transaction_ID": 3,
+      "Customer_ID": 101,
+      "Account_ID": 201,
+      "Branch_ID": 301,
+      "Transaction_DateKey": 20230101,
+      "Amount": 300.00,
+      "Transaction_Type": "Deposit",
+      "Is_Duplicate": true
+    },
+    {
+      "Transaction_ID": 4,
+      "Customer_ID": 103,
+      "Account_ID": 203,
+      "Branch_ID": 303,
+      "Transaction_DateKey": 20230103,
+      "Amount": 700.00,
+      "Transaction_Type": "Deposit",
+      "Is_Duplicate": false
+    },
+    {
+      "Transaction_ID": 5,
+      "Customer_ID": 104,
+      "Account_ID": 204,
+      "Branch_ID": 304,
+      "Transaction_DateKey": 20230104,
+      "Amount": 1000.00,
+      "Transaction_Type": "Withdrawal",
+      "Is_Duplicate": false
+    }
+  ]
+  
