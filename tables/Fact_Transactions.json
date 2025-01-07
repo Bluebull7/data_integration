@@ -48,6 +48,16 @@
       "Amount": 1000.00,
       "Transaction_Type": "Withdrawal",
       "Is_Duplicate": false
-    }
+    },
+    {
+        "Transaction_ID": 6,
+        "Customer_ID": 101,
+        "Account_ID": 201,
+        "Branch_ID": 301,
+        "Transaction_DateKey": 20230101,
+        "Amount": 300.00,
+        "Transaction_Type": "Deposit",
+        "Is_Duplicate": false
+      }
   ]
   
