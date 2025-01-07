@@ -1,0 +1,7 @@
+Transaction_ID,Customer_ID,Account_ID,Branch_ID,Transaction_DateKey,Amount,Transaction_Type,Is_Duplicate
+1,101,201,301,20230101,500,Deposit,False
+2,102,202,302,20230102,200,Withdrawal,False
+3,101,201,301,20230101,300,Deposit,True
+4,103,203,303,20230103,700,Deposit,False
+5,104,204,304,20230104,1000,Withdrawal,False
+6,101,201,301,20230101,300,Deposit,False

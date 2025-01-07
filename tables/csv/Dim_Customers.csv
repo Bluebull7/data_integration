@@ -1,0 +1,5 @@
+Customer_ID,Full_Name,Email,Phone_Number,Address
+101,John Smith,john.smith@example.com,123-456-7890,"123 Elm St, Springfield"
+102,Jane Doe,jane.doe@example.com,234-567-8901,"456 Oak St, Springfield"
+103,Alice Johnson,alice.johnson@example.com,345-678-9012,"789 Pine St, Springfield"
+104,Bob Brown,bob.brown@example.com,456-789-0123,"101 Maple St, Springfield"
